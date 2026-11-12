@@ -1,0 +1,693 @@
+2026-10-21 13:31:59  Detector started. Examples loaded: paper 0, plastic 0, electronics 0, nothing 0
+2026-10-21 13:31:59  Pico: connected
+2026-10-21 13:31:59  Wi-Fi: learnet.se
+2026-10-21 13:32:02  Camera: lost (camera error: timed out)
+2026-10-21 13:32:25  Camera: lost (camera error: [WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-21 13:32:26  Camera: pictures arriving
+2026-10-21 13:32:26  Wi-Fi: Identifiering sker...
+2026-10-21 13:32:27  Learned the empty view
+2026-10-21 13:32:46  Wi-Fi: AiPi_Cam_D200
+2026-10-21 13:34:14  Camera: lost (camera error: IncompleteRead(1168 bytes read))
+2026-10-21 13:34:15  Camera: pictures arriving
+2026-10-21 13:34:15  Camera: lost (camera error: IncompleteRead(1647 bytes read))
+2026-10-21 13:34:16  Camera: lost (camera error: IncompleteRead(112 bytes read))
+2026-10-21 13:34:16  Camera: lost (camera error: IncompleteRead(883 bytes read))
+2026-10-21 13:34:17  Camera: pictures arriving
+2026-10-21 13:35:22  Camera: lost (camera error: timed out)
+2026-10-21 13:35:33  Camera: lost (camera error: [WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-21 13:35:33  Camera: lost (camera error: [WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går att kontakta)
+2026-10-21 13:35:33  Wi-Fi: Identifiering sker...
+2026-10-21 13:35:37  Wi-Fi: learnet.se
+2026-10-21 13:35:37  Camera: lost (camera error: timed out)
+2026-10-21 13:48:57  Pico: NOT connected (COM3: no answer - unplug and replug the Pico so main.py starts)
+2026-10-21 13:48:57  Pico: NOT connected (COM3 is busy - is Thonny connected to the Pico? Close it.)
+2026-10-21 13:48:59  Pico: connected
+2026-10-21 13:49:14  Pico: connected
+2026-10-21 13:49:14  Wi-Fi: learnet.se
+2026-10-21 13:49:17  Camera: lost (camera error: timed out)
+2026-10-21 13:49:18  Detector started. Examples loaded: paper 37, plastic 0, electronics 39, nothing 52
+2026-10-21 13:50:17  Pico: connected
+2026-10-21 13:50:17  Wi-Fi: learnet.se
+2026-10-21 13:50:18  Detector started. Examples loaded: paper 37, plastic 0, electronics 39, nothing 52
+2026-10-21 13:50:20  Camera: lost (camera error: timed out)
+2026-10-21 13:50:36  Camera: lost (camera error: [WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-21 13:50:36  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:37  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:38  Wi-Fi: Identifiering sker...
+2026-10-21 13:50:38  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:39  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:40  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:41  Wi-Fi: AiPi_Cam_D200
+2026-10-21 13:50:42  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:43  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:44  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:45  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:46  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:47  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:48  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:50  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:50  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:51  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:51  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:55  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:56  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:56  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:57  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:58  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:50:59  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:50:59  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:00  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:02  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:03  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:04  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:04  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:06  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:07  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:09  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:12  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:12  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:13  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:13  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:14  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:15  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:15  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:16  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:17  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:17  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:18  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:20  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:20  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:21  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:22  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:24  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:25  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:27  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:27  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:31  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:32  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:35  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:35  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:36  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:37  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:38  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:39  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:41  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:42  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:46  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:47  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:48  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:49  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:50  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:51  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:54  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:55  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:51:56  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:51:58  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:00  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:00  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:02  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:04  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:05  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:05  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:06  Pico: connected
+2026-10-21 13:52:06  Wi-Fi: AiPi_Cam_D200
+2026-10-21 13:52:07  Detector started. Examples loaded: paper 37, plastic 0, electronics 39, nothing 52
+2026-10-21 13:52:07  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:10  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:10  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:11  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:12  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:15  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:16  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:17  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:18  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:19  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:20  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:22  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:23  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:23  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:26  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:30  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:32  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:32  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:35  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:36  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:39  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:39  Pico: connected
+2026-10-21 13:52:39  Wi-Fi: AiPi_Cam_D200
+2026-10-21 13:52:40  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:40  Detector started. Examples loaded: paper 37, plastic 0, electronics 39, nothing 52
+2026-10-21 13:52:40  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:41  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:44  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:45  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:46  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:46  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:47  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:48  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:48  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:49  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:49  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:50  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:51  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:52  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:52  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:53  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:52:56  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:52:56  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:53:02  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:53:04  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 13:53:06  Camera: lost (camera error: [WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 13:53:07  Camera: lost (camera error: Remote end closed connection without response)
+2026-10-21 14:02:27  Pico: connected
+2026-10-21 14:02:27  Wi-Fi: learnet.se
+2026-10-21 14:02:28  Detector started. Examples loaded: paper 37, plastic 0, electronics 39, nothing 52
+2026-10-21 14:02:30  Camera: the camera can't be reached (timed out)
+2026-10-21 14:02:35  Camera: pictures arriving again (after 5 s, 3 tries)
+2026-10-21 14:02:36  Learned the empty view
+2026-10-21 14:02:48  Wi-Fi: AiPi_Cam_D200
+2026-10-21 14:02:53  Camera: the camera stopped sending (timed out)
+2026-10-21 14:02:57  Camera: the camera can't be reached (timed out)
+2026-10-21 14:03:03  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-21 14:03:08  Camera: the camera can't be reached (timed out)
+2026-10-21 14:03:08  Wi-Fi: learnet.se
+2026-10-21 14:03:09  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-21 14:03:12  Wi-Fi: Identifiering sker...
+2026-10-21 14:03:15  Wi-Fi: AiPi_Cam_D200
+2026-10-21 14:03:40  Camera: still no pictures for 46 s - the camera refuses the picture (busy) (21 tries)
+2026-10-21 14:03:55  Camera: the camera refuses the picture (busy) (Remote end closed connection without response)
+2026-10-21 14:03:55  Pico: connected
+2026-10-21 14:03:55  Wi-Fi: AiPi_Cam_D200
+2026-10-21 14:03:56  Detector started. Examples loaded: paper 37, plastic 0, electronics 39, nothing 52
+2026-10-21 14:04:01  Pico: NOT connected (COM3 is busy - is Thonny connected to the Pico? Close it.)
+2026-10-21 14:04:06  Camera: the camera can't be reached (timed out)
+2026-10-21 14:04:07  Pico: connected
+2026-10-21 14:04:08  Camera: the camera can't be reached ([WinError 10065] En socketåtgärd försökte utföras på en oåtkomlig värd)
+2026-10-21 14:04:08  Pico: connected
+2026-10-21 14:04:08  Wi-Fi: no Wi-Fi
+2026-10-21 14:04:09  Detector started. Examples loaded: paper 37, plastic 0, electronics 39, nothing 52
+2026-10-21 14:04:10  Camera: pictures arriving again (after 1 s, 3 tries)
+2026-10-21 14:04:11  Learned the empty view
+2026-10-21 14:04:29  Wi-Fi: AiPi_Cam_D200
+2026-10-21 14:08:54  Camera: the picture stream broke off (IncompleteRead(3216 bytes read))
+2026-10-21 14:08:55  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 14:09:14  Camera: the picture stream broke off (IncompleteRead(499 bytes read))
+2026-10-21 14:09:15  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 14:10:12  Camera: the camera stopped sending (timed out)
+2026-10-21 14:10:15  Camera: the camera can't be reached (timed out)
+2026-10-21 14:10:22  Wi-Fi: Identifiering sker...
+2026-10-21 14:10:23  Camera: the camera refuses the picture (busy) (Remote end closed connection without response)
+2026-10-21 14:10:26  Wi-Fi: AiPi_Cam_D200
+2026-10-21 14:10:39  Wi-Fi: no Wi-Fi
+2026-10-21 14:10:39  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-21 14:10:40  Pico: NOT connected (COM3: Write timeout)
+2026-10-21 14:10:43  Wi-Fi: Identifiering sker...
+2026-10-21 14:10:46  Wi-Fi: learnet.se
+2026-10-21 14:10:53  Wi-Fi: no Wi-Fi
+2026-10-21 14:10:55  Pico: connected
+2026-10-21 14:11:01  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-21 14:11:02  Pico: connected
+2026-10-21 14:11:02  Wi-Fi: Identifiering sker...
+2026-10-21 14:11:03  Camera: pictures arriving again (after 1 s, 2 tries)
+2026-10-21 14:11:07  Detector started. Examples loaded: paper 55, plastic 62, electronics 51, nothing 130
+2026-10-21 14:11:08  Learned the empty view
+2026-10-21 14:11:22  Wi-Fi: AiPi_Cam_D200
+2026-10-21 14:12:21  Camera: the picture stream broke off (IncompleteRead(1626 bytes read))
+2026-10-21 14:12:23  Camera: pictures arriving again (after 1 s, 3 tries)
+2026-10-21 14:14:32  Camera: the picture stream broke off (IncompleteRead(1626 bytes read))
+2026-10-21 14:14:34  Camera: pictures arriving again (after 2 s, 3 tries)
+2026-10-21 14:17:02  Camera: the picture stream broke off (IncompleteRead(4054 bytes read))
+2026-10-21 14:17:05  Camera: pictures arriving again (after 2 s, 4 tries)
+2026-10-21 14:17:06  Camera: the picture stream broke off (IncompleteRead(3543 bytes read))
+2026-10-21 14:17:07  Camera: pictures arriving again (after 1 s, 2 tries)
+2026-10-21 14:17:08  Camera: the picture stream broke off (IncompleteRead(296 bytes read))
+2026-10-21 14:17:09  Camera: pictures arriving again (after 1 s, 2 tries)
+2026-10-21 14:20:12  Wi-Fi: no Wi-Fi
+2026-10-21 14:20:13  Camera: the picture stream broke off ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 14:20:13  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-21 14:20:32  Wi-Fi: learnet.se
+2026-10-21 14:20:46  Camera: still no pictures for 32 s - the camera can't be reached (12 tries)
+2026-10-21 14:21:17  Camera: still no pictures for 64 s - the camera can't be reached (21 tries)
+2026-10-21 14:21:49  Camera: still no pictures for 95 s - the camera can't be reached (30 tries)
+2026-10-21 14:22:20  Camera: still no pictures for 127 s - the camera can't be reached (39 tries)
+2026-10-21 14:22:52  Camera: still no pictures for 158 s - the camera can't be reached (48 tries)
+2026-10-21 14:23:13  Pico: NOT connected (COM3: Write timeout)
+2026-10-21 14:23:23  Camera: still no pictures for 190 s - the camera can't be reached (57 tries)
+2026-10-21 14:23:55  Camera: still no pictures for 222 s - the camera can't be reached (66 tries)
+2026-10-21 14:24:27  Camera: still no pictures for 253 s - the camera can't be reached (75 tries)
+2026-10-21 14:24:58  Camera: still no pictures for 285 s - the camera can't be reached (84 tries)
+2026-10-21 14:25:30  Camera: still no pictures for 316 s - the camera can't be reached (93 tries)
+2026-10-21 14:26:02  Camera: still no pictures for 348 s - the camera can't be reached (102 tries)
+2026-10-21 14:26:33  Camera: still no pictures for 380 s - the camera can't be reached (111 tries)
+2026-10-21 14:27:05  Camera: still no pictures for 411 s - the camera can't be reached (120 tries)
+2026-10-21 14:27:36  Camera: still no pictures for 443 s - the camera can't be reached (129 tries)
+2026-10-21 14:28:08  Camera: still no pictures for 475 s - the camera can't be reached (138 tries)
+2026-10-21 14:28:40  Camera: still no pictures for 506 s - the camera can't be reached (147 tries)
+2026-10-21 14:29:11  Camera: still no pictures for 538 s - the camera can't be reached (156 tries)
+2026-10-21 14:29:43  Camera: still no pictures for 569 s - the camera can't be reached (165 tries)
+2026-10-21 14:30:15  Camera: still no pictures for 601 s - the camera can't be reached (174 tries)
+2026-10-21 14:30:46  Camera: still no pictures for 633 s - the camera can't be reached (183 tries)
+2026-10-21 14:31:18  Camera: still no pictures for 664 s - the camera can't be reached (192 tries)
+2026-10-21 14:31:49  Camera: still no pictures for 696 s - the camera can't be reached (201 tries)
+2026-10-21 14:32:21  Camera: still no pictures for 728 s - the camera can't be reached (210 tries)
+2026-10-21 14:32:53  Camera: still no pictures for 759 s - the camera can't be reached (219 tries)
+2026-10-21 14:33:24  Camera: still no pictures for 791 s - the camera can't be reached (228 tries)
+2026-10-21 14:33:56  Camera: still no pictures for 822 s - the camera can't be reached (237 tries)
+2026-10-21 14:34:27  Camera: still no pictures for 854 s - the camera can't be reached (246 tries)
+2026-10-21 14:34:59  Camera: still no pictures for 886 s - the camera can't be reached (255 tries)
+2026-10-21 14:35:31  Camera: still no pictures for 917 s - the camera can't be reached (264 tries)
+2026-10-21 14:36:02  Camera: still no pictures for 949 s - the camera can't be reached (273 tries)
+2026-10-21 14:36:34  Camera: still no pictures for 981 s - the camera can't be reached (282 tries)
+2026-10-21 14:37:06  Camera: still no pictures for 1012 s - the camera can't be reached (291 tries)
+2026-10-21 14:37:37  Camera: still no pictures for 1044 s - the camera can't be reached (300 tries)
+2026-10-21 14:38:09  Camera: still no pictures for 1075 s - the camera can't be reached (309 tries)
+2026-10-21 14:38:40  Camera: still no pictures for 1107 s - the camera can't be reached (318 tries)
+2026-10-21 14:39:12  Camera: still no pictures for 1139 s - the camera can't be reached (327 tries)
+2026-10-21 14:39:44  Camera: still no pictures for 1170 s - the camera can't be reached (336 tries)
+2026-10-21 14:40:15  Camera: still no pictures for 1202 s - the camera can't be reached (345 tries)
+2026-10-21 14:40:47  Camera: still no pictures for 1233 s - the camera can't be reached (354 tries)
+2026-10-21 14:41:18  Camera: still no pictures for 1265 s - the camera can't be reached (363 tries)
+2026-10-21 14:41:50  Camera: still no pictures for 1296 s - the camera can't be reached (372 tries)
+2026-10-21 14:42:21  Camera: still no pictures for 1328 s - the camera can't be reached (381 tries)
+2026-10-21 14:42:53  Camera: still no pictures for 1360 s - the camera can't be reached (390 tries)
+2026-10-21 15:02:14  Pico: connected
+2026-10-21 15:02:14  Wi-Fi: learnet.se
+2026-10-21 15:02:17  Camera: the camera can't be reached (timed out)
+2026-10-21 15:02:25  Detector started. Examples loaded: paper 101, plastic 161, electronics 149, nothing 150
+2026-10-21 15:02:48  Camera: still no pictures for 31 s - the camera can't be reached (10 tries)
+2026-10-21 15:02:51  Wi-Fi: Identifiering sker...
+2026-10-21 15:02:52  Camera: the camera refuses the picture (busy) ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-21 15:02:55  Wi-Fi: AiPi_Cam_D200
+2026-10-21 15:03:01  Pico: NOT connected (COM3: Write timeout)
+2026-10-21 15:03:05  Camera: the camera can't be reached (timed out)
+2026-10-21 15:03:06  Pico: connected
+2026-10-21 15:03:06  Wi-Fi: no Wi-Fi
+2026-10-21 15:03:08  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-21 15:03:13  Detector started. Examples loaded: paper 101, plastic 161, electronics 149, nothing 150
+2026-10-21 15:03:22  Pico: NOT connected (COM3 is busy - is Thonny connected to the Pico? Close it.)
+2026-10-21 15:03:25  Camera: the camera can't be reached (timed out)
+2026-10-21 15:03:27  Wi-Fi: AiPi_Cam_D200
+2026-10-21 15:03:33  Camera: the camera can't be reached ([WinError 10065] En socketåtgärd försökte utföras på en oåtkomlig värd)
+2026-10-21 15:03:33  Pico: connected
+2026-10-21 15:03:33  Wi-Fi: no Wi-Fi
+2026-10-21 15:03:38  Detector started. Examples loaded: paper 101, plastic 161, electronics 149, nothing 150
+2026-10-21 15:03:40  Camera: pictures arriving again (after 7 s, 14 tries)
+2026-10-21 15:03:42  Learned the empty view
+2026-10-21 15:03:53  Wi-Fi: AiPi_Cam_D200
+2026-10-21 15:04:33  Camera: the picture stream broke off (IncompleteRead(1699 bytes read))
+2026-10-21 15:04:34  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 15:04:50  Learning the empty view again (E)
+2026-10-21 15:04:51  Learned the empty view
+2026-10-21 15:04:55  Learning the empty view again (E)
+2026-10-21 15:04:56  Learned the empty view
+2026-10-21 15:04:58  Camera: the picture stream broke off (IncompleteRead(1557 bytes read))
+2026-10-21 15:04:59  Camera: pictures arriving again (after 1 s, 2 tries)
+2026-10-21 15:05:06  Learning the empty view again (E)
+2026-10-21 15:05:07  Learned the empty view
+2026-10-21 15:05:14  Learning the empty view again (E)
+2026-10-21 15:05:15  Learned the empty view
+2026-10-21 15:05:16  Camera: the picture stream broke off (IncompleteRead(152 bytes read))
+2026-10-21 15:05:18  Camera: pictures arriving again (after 1 s, 2 tries)
+2026-10-21 15:05:30  Camera: the picture stream broke off (IncompleteRead(3976 bytes read))
+2026-10-21 15:05:31  Camera: pictures arriving again (after 1 s, 3 tries)
+2026-10-21 15:05:34  Camera: the picture stream broke off (IncompleteRead(625 bytes read))
+2026-10-21 15:05:34  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 15:05:42  Camera: the picture stream broke off (IncompleteRead(924 bytes read))
+2026-10-21 15:05:44  Camera: pictures arriving again (after 2 s, 1 tries)
+2026-10-21 15:06:00  Camera: the picture stream broke off (IncompleteRead(2926 bytes read))
+2026-10-21 15:06:01  Learning the empty view again (E)
+2026-10-21 15:06:01  Camera: pictures arriving again (after 1 s, 2 tries)
+2026-10-21 15:06:02  Camera: the picture stream broke off (IncompleteRead(1344 bytes read))
+2026-10-21 15:06:06  Camera: pictures arriving again (after 4 s, 7 tries)
+2026-10-21 15:06:07  Learned the empty view
+2026-10-21 15:06:08  Learning the empty view again (E)
+2026-10-21 15:06:08  Camera: the picture stream broke off (IncompleteRead(1787 bytes read))
+2026-10-21 15:06:17  Camera: pictures arriving again (after 8 s, 14 tries)
+2026-10-21 15:06:17  Camera: the picture stream broke off (IncompleteRead(699 bytes read))
+2026-10-21 15:06:20  Camera: pictures arriving again (after 3 s, 5 tries)
+2026-10-21 15:06:21  Learned the empty view
+2026-10-21 15:06:21  Camera: the picture stream broke off (IncompleteRead(3374 bytes read))
+2026-10-21 15:06:22  Camera: pictures arriving again (after 1 s, 2 tries)
+2026-10-21 15:06:36  Camera: the picture stream broke off (IncompleteRead(3386 bytes read))
+2026-10-21 15:06:37  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 15:06:44  Camera: the picture stream broke off (IncompleteRead(296 bytes read))
+2026-10-21 15:06:45  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 15:06:48  Camera: the picture stream broke off (IncompleteRead(2772 bytes read))
+2026-10-21 15:06:49  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 15:06:49  Camera: the picture stream broke off (IncompleteRead(2290 bytes read))
+2026-10-21 15:06:52  Camera: pictures arriving again (after 2 s, 4 tries)
+2026-10-21 15:06:52  Camera: the picture stream broke off (IncompleteRead(2233 bytes read))
+2026-10-21 15:06:55  Camera: pictures arriving again (after 2 s, 4 tries)
+2026-10-21 15:06:58  Camera: the picture stream broke off (IncompleteRead(2438 bytes read))
+2026-10-21 15:07:08  Camera: pictures arriving again (after 9 s, 15 tries)
+2026-10-21 15:07:28  Camera: the picture stream broke off (IncompleteRead(297 bytes read))
+2026-10-21 15:07:29  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 15:07:33  Camera: the picture stream broke off (IncompleteRead(2888 bytes read))
+2026-10-21 15:07:41  Camera: pictures arriving again (after 7 s, 12 tries)
+2026-10-21 15:07:44  Camera: the picture stream broke off (IncompleteRead(528 bytes read))
+2026-10-21 15:07:46  Camera: pictures arriving again (after 2 s, 4 tries)
+2026-10-21 15:07:54  Camera: the picture stream broke off (IncompleteRead(2111 bytes read))
+2026-10-21 15:07:56  Camera: pictures arriving again (after 1 s, 2 tries)
+2026-10-21 15:08:04  Camera: the picture stream broke off (IncompleteRead(738 bytes read))
+2026-10-21 15:08:05  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 15:08:11  Camera: the picture stream broke off (IncompleteRead(3381 bytes read))
+2026-10-21 15:08:12  Camera: pictures arriving again (after 1 s, 3 tries)
+2026-10-21 15:08:20  Camera: the picture stream broke off (IncompleteRead(1609 bytes read))
+2026-10-21 15:08:21  Camera: pictures arriving again (after 1 s, 2 tries)
+2026-10-21 15:08:22  Camera: the picture stream broke off (IncompleteRead(1814 bytes read))
+2026-10-21 15:08:24  Camera: pictures arriving again (after 2 s, 4 tries)
+2026-10-21 15:08:35  Camera: the picture stream broke off (IncompleteRead(483 bytes read))
+2026-10-21 15:08:35  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 15:08:43  Camera: the picture stream broke off (IncompleteRead(572 bytes read))
+2026-10-21 15:08:52  Camera: pictures arriving again (after 8 s, 13 tries)
+2026-10-21 15:08:52  Camera: the picture stream broke off (IncompleteRead(3646 bytes read))
+2026-10-21 15:09:00  Camera: pictures arriving again (after 8 s, 13 tries)
+2026-10-21 15:09:01  Camera: the picture stream broke off (IncompleteRead(891 bytes read))
+2026-10-21 15:09:03  Camera: pictures arriving again (after 1 s, 3 tries)
+2026-10-21 15:09:10  Camera: the picture stream broke off (IncompleteRead(400 bytes read))
+2026-10-21 15:09:12  Camera: pictures arriving again (after 1 s, 3 tries)
+2026-10-21 15:09:14  Learning the empty view again (E)
+2026-10-21 15:09:15  Learned the empty view
+2026-10-21 15:09:16  Learning the empty view again (E)
+2026-10-21 15:09:17  Learned the empty view
+2026-10-21 15:09:18  Learning the empty view again (E)
+2026-10-21 15:09:19  Learned the empty view
+2026-10-21 15:09:21  Learning the empty view again (E)
+2026-10-21 15:09:22  Learned the empty view
+2026-10-21 15:09:35  Camera: the picture stream broke off (IncompleteRead(2290 bytes read))
+2026-10-21 15:09:36  Camera: pictures arriving again (after 0 s, 1 tries)
+2026-10-21 15:09:42  Camera: the camera stopped sending (timed out)
+2026-10-21 15:09:45  Camera: the camera can't be reached (timed out)
+2026-10-21 15:09:49  Camera: the camera refuses the picture (busy) (Remote end closed connection without response)
+2026-10-21 15:09:50  Wi-Fi: Identifiering sker...
+2026-10-21 15:09:53  Wi-Fi: AiPi_Cam_D200
+2026-10-21 15:10:06  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-21 15:10:07  Wi-Fi: no Wi-Fi
+2026-10-22 13:25:08  Detector started. Examples loaded: paper 0, plastic 0, electronics 0, nothing 0
+2026-10-22 13:25:08  AI: MobileNetV2 (pre-trained) on the zoomed crops
+2026-10-22 13:25:08  Pico: connected
+2026-10-22 13:25:09  Wi-Fi: learnet.se
+2026-10-22 13:25:11  Camera: the camera can't be reached (timed out)
+2026-10-22 13:25:27  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-22 13:25:29  Wi-Fi: Oidentifierat n„tverk
+2026-10-22 13:25:29  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-22 13:25:31  Camera: pictures arriving again (after 19 s, 9 tries)
+2026-10-22 13:25:32  Wi-Fi: AiPi_Cam_D200
+2026-10-22 13:25:32  Learned the empty view (still 1.5, sharp 167)
+2026-10-22 13:26:34  Learning the empty view again (E)
+2026-10-22 13:26:36  Learned the empty view (still 3.4, sharp 528)
+2026-10-22 13:26:36  Learning the empty view again (E)
+2026-10-22 13:26:38  Learned the empty view (still 0.5, sharp 550)
+2026-10-22 13:26:42  Learning the empty view again (E)
+2026-10-22 13:26:44  Learned the empty view (still 0.6, sharp 503)
+2026-10-22 13:28:31  Camera: the camera stopped sending (timed out)
+2026-10-22 13:28:31  Camera: the camera refuses the picture (busy) (Remote end closed connection without response)
+2026-10-22 13:28:33  Camera: pictures arriving again (after 2 s, 2 tries)
+2026-10-22 13:59:31  Detector started. Examples loaded: paper 0, plastic 0, electronics 0, nothing 0
+2026-10-22 13:59:31  AI: MobileNetV2 (pre-trained) on the zoomed crops
+2026-10-22 13:59:31  Pico: connected
+2026-10-22 13:59:31  Wi-Fi: learnet.se
+2026-10-22 13:59:34  Camera: the camera can't be reached (timed out)
+2026-10-22 13:59:50  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-22 13:59:51  Wi-Fi: Identifiering sker...
+2026-10-22 13:59:53  Camera: pictures arriving again (after 19 s, 6 tries)
+2026-10-22 13:59:54  Learned the empty view (still 1.1, sharp 1266)
+2026-10-22 13:59:55  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:00:11  Saw electronics - following it
+2026-10-22 14:00:38  Nothing for 7 s - back to the red box
+2026-10-22 14:00:46  Saw electronics - following it
+2026-10-22 14:00:55  Nothing for 7 s - back to the red box
+2026-10-22 14:01:08  Saw plastic - following it
+2026-10-22 14:01:26  Nothing for 7 s - back to the red box
+2026-10-22 14:01:30  Saw electronics - following it
+2026-10-22 14:01:50  Learning the empty view again (E)
+2026-10-22 14:01:51  Learned the empty view (still 0.6, sharp 590)
+2026-10-22 14:01:57  Saw electronics - following it
+2026-10-22 14:02:41  Camera: the camera stopped sending (timed out)
+2026-10-22 14:02:45  Camera: the camera can't be reached (timed out)
+2026-10-22 14:02:58  Wi-Fi: Identifiering sker...
+2026-10-22 14:02:59  Camera: the camera refuses the picture (busy) (Remote end closed connection without response)
+2026-10-22 14:03:02  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:03:17  Pico: NOT connected (COM3 is busy - is Thonny connected to the Pico? Close it.)
+2026-10-22 14:03:22  Camera: the camera can't be reached (timed out)
+2026-10-22 14:03:25  Wi-Fi: no Wi-Fi
+2026-10-22 14:03:30  Pico: connected
+2026-10-22 14:03:31  Camera: the camera can't be reached ([WinError 10065] En socketåtgärd försökte utföras på en oåtkomlig värd)
+2026-10-22 14:03:31  Pico: connected
+2026-10-22 14:03:31  Detector started. Examples loaded: paper 0, plastic 31, electronics 11, nothing 38
+2026-10-22 14:03:31  AI: MobileNetV2 (pre-trained) on the zoomed crops
+2026-10-22 14:03:32  Wi-Fi: no Wi-Fi
+2026-10-22 14:03:39  Wi-Fi: Identifiering sker...
+2026-10-22 14:03:39  Camera: pictures arriving again (after 7 s, 14 tries)
+2026-10-22 14:03:40  Learned the empty view (still 0.5, sharp 529)
+2026-10-22 14:03:41  Saw plastic - following it
+2026-10-22 14:03:42  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:04:01  Nothing for 7 s - back to the red box
+2026-10-22 14:04:02  Saw plastic - following it
+2026-10-22 14:04:18  Nothing for 7 s - back to the red box
+2026-10-22 14:04:28  Saw plastic - following it
+2026-10-22 14:04:38  Nothing for 7 s - back to the red box
+2026-10-22 14:05:02  Saw electronics - following it
+2026-10-22 14:05:28  Nothing for 7 s - back to the red box
+2026-10-22 14:05:29  Saw plastic - following it
+2026-10-22 14:05:36  Nothing for 7 s - back to the red box
+2026-10-22 14:05:37  Saw plastic - following it
+2026-10-22 14:05:44  Nothing for 7 s - back to the red box
+2026-10-22 14:05:45  Saw plastic - following it
+2026-10-22 14:05:52  Nothing for 7 s - back to the red box
+2026-10-22 14:05:56  Saw plastic - following it
+2026-10-22 14:06:03  Nothing for 7 s - back to the red box
+2026-10-22 14:07:11  Camera: the picture stream broke off ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-22 14:07:14  Camera: the camera can't be reached (timed out)
+2026-10-22 14:07:26  Wi-Fi: learnet.se
+2026-10-22 14:07:46  Camera: still no pictures for 35 s - the camera can't be reached (11 tries)
+2026-10-22 14:08:18  Camera: still no pictures for 66 s - the camera can't be reached (20 tries)
+2026-10-22 14:08:49  Camera: still no pictures for 98 s - the camera can't be reached (29 tries)
+2026-10-22 14:09:21  Camera: still no pictures for 129 s - the camera can't be reached (38 tries)
+2026-10-22 14:09:52  Camera: still no pictures for 161 s - the camera can't be reached (47 tries)
+2026-10-22 14:10:24  Camera: still no pictures for 193 s - the camera can't be reached (56 tries)
+2026-10-22 14:10:56  Camera: still no pictures for 224 s - the camera can't be reached (65 tries)
+2026-10-22 14:11:27  Camera: still no pictures for 256 s - the camera can't be reached (74 tries)
+2026-10-22 14:11:59  Camera: still no pictures for 287 s - the camera can't be reached (83 tries)
+2026-10-22 14:12:30  Camera: still no pictures for 319 s - the camera can't be reached (92 tries)
+2026-10-22 14:12:44  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-22 14:12:45  Wi-Fi: Identifiering sker...
+2026-10-22 14:12:49  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:12:59  Pico: NOT connected (COM3 is busy - is Thonny connected to the Pico? Close it.)
+2026-10-22 14:13:02  Wi-Fi: no Wi-Fi
+2026-10-22 14:13:03  Camera: the camera can't be reached (timed out)
+2026-10-22 14:13:09  Pico: connected
+2026-10-22 14:13:09  Wi-Fi: learnet.se
+2026-10-22 14:13:11  Camera: the camera can't be reached (timed out)
+2026-10-22 14:13:43  Camera: still no pictures for 31 s - the camera can't be reached (10 tries)
+2026-10-22 14:14:15  Camera: still no pictures for 63 s - the camera can't be reached (19 tries)
+2026-10-22 14:14:46  Camera: still no pictures for 94 s - the camera can't be reached (28 tries)
+2026-10-22 14:15:18  Camera: still no pictures for 126 s - the camera can't be reached (37 tries)
+2026-10-22 14:15:49  Camera: still no pictures for 157 s - the camera can't be reached (46 tries)
+2026-10-22 14:20:47  Pico: connected
+2026-10-22 14:20:48  Wi-Fi: learnet.se
+2026-10-22 14:20:50  Camera: the camera can't be reached (timed out)
+2026-10-22 14:20:55  Pico: connected
+2026-10-22 14:20:56  Wi-Fi: learnet.se
+2026-10-22 14:20:58  Camera: the camera can't be reached (timed out)
+2026-10-22 14:21:13  Pico: connected
+2026-10-22 14:21:13  Camera: pictures arriving
+2026-10-22 14:21:13  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:21:41  Camera: the picture stream broke off ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-22 14:21:41  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-22 14:21:54  Wi-Fi: learnet.se
+2026-10-22 14:22:14  Camera: still no pictures for 32 s - the camera can't be reached (12 tries)
+2026-10-22 14:22:45  Camera: still no pictures for 64 s - the camera can't be reached (21 tries)
+2026-10-22 14:23:17  Camera: still no pictures for 95 s - the camera can't be reached (30 tries)
+2026-10-22 14:23:48  Camera: still no pictures for 127 s - the camera can't be reached (39 tries)
+2026-10-22 14:24:20  Camera: still no pictures for 158 s - the camera can't be reached (48 tries)
+2026-10-22 14:24:51  Camera: still no pictures for 190 s - the camera can't be reached (57 tries)
+2026-10-22 14:25:23  Camera: still no pictures for 222 s - the camera can't be reached (66 tries)
+2026-10-22 14:25:54  Pico: connected
+2026-10-22 14:25:54  Wi-Fi: learnet.se
+2026-10-22 14:25:55  Detector started. Examples loaded: paper 0, plastic 37, electronics 24, nothing 95
+2026-10-22 14:25:55  AI: MobileNetV2 (pre-trained) on the zoomed crops
+2026-10-22 14:25:57  Camera: the camera can't be reached (timed out)
+2026-10-22 14:26:00  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-22 14:26:13  Pico: NOT connected (COM3 is busy - is Thonny connected to the Pico? Close it.)
+2026-10-22 14:26:14  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:26:17  Camera: the camera can't be reached (timed out)
+2026-10-22 14:26:18  Pico: connected
+2026-10-22 14:26:21  Wi-Fi: no Wi-Fi
+2026-10-22 14:26:25  Wi-Fi: learnet.se
+2026-10-22 14:26:28  Wi-Fi: Identifiering sker...
+2026-10-22 14:26:28  Camera: pictures arriving again (after 31 s, 18 tries)
+2026-10-22 14:26:30  Learned the empty view (still 0.5, sharp 434)
+2026-10-22 14:26:31  Camera: the picture stream broke off ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-22 14:26:31  Camera: the camera refuses the picture (busy) ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-22 14:26:32  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:26:55  Pico: NOT connected (COM3 is busy - is Thonny connected to the Pico? Close it.)
+2026-10-22 14:26:59  Camera: the camera can't be reached (timed out)
+2026-10-22 14:27:02  Wi-Fi: no Wi-Fi
+2026-10-22 14:27:04  Pico: connected
+2026-10-22 14:27:05  Camera: the camera can't be reached ([WinError 10065] En socketåtgärd försökte utföras på en oåtkomlig värd)
+2026-10-22 14:27:06  Pico: connected
+2026-10-22 14:27:06  Detector started. Examples loaded: paper 0, plastic 37, electronics 24, nothing 95
+2026-10-22 14:27:06  AI: MobileNetV2 (pre-trained) on the zoomed crops
+2026-10-22 14:27:06  Wi-Fi: no Wi-Fi
+2026-10-22 14:27:15  Camera: pictures arriving again (after 9 s, 17 tries)
+2026-10-22 14:27:16  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:27:16  Learned the empty view (still 0.5, sharp 359)
+2026-10-22 14:27:19  Saw plastic - following it
+2026-10-22 14:27:45  Nothing for 7 s - back to the red box
+2026-10-22 14:27:47  Saw electronics - following it
+2026-10-22 14:28:01  Nothing for 7 s - back to the red box
+2026-10-22 14:28:01  Saw electronics - following it
+2026-10-22 14:28:47  Nothing for 7 s - back to the red box
+2026-10-22 14:35:22  Pico: NOT connected (COM3: no answer - unplug and replug the Pico so main.py starts)
+2026-10-22 14:35:22  Pico: NOT connected (COM3 is busy - is Thonny connected to the Pico? Close it.)
+2026-10-22 14:35:24  Pico: connected
+2026-10-22 14:35:25  Camera: the camera stopped sending (timed out)
+2026-10-22 14:35:26  Camera: the camera refuses the picture (busy) ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-22 14:35:28  Camera: pictures arriving again (after 2 s, 2 tries)
+2026-10-22 14:35:33  Camera: the camera stopped sending (timed out)
+2026-10-22 14:35:37  Camera: the camera can't be reached (timed out)
+2026-10-22 14:35:41  Camera: the camera refuses the picture (busy) ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-22 14:35:57  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-22 14:35:57  Wi-Fi: no Wi-Fi
+2026-10-22 14:36:07  Wi-Fi: learnet.se
+2026-10-22 14:36:17  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-22 14:36:47  Camera: still no pictures for 73 s - the camera refuses the picture (busy) (39 tries)
+2026-10-22 14:37:17  Camera: still no pictures for 103 s - the camera refuses the picture (busy) (54 tries)
+2026-10-22 14:37:28  Pico: NOT connected (COM3 is busy - is Thonny connected to the Pico? Close it.)
+2026-10-22 14:37:32  Camera: the camera can't be reached (timed out)
+2026-10-22 14:37:35  Wi-Fi: no Wi-Fi
+2026-10-22 14:37:39  Wi-Fi: learnet.se
+2026-10-22 14:37:40  Pico: connected
+2026-10-22 14:37:44  Pico: connected
+2026-10-22 14:37:44  Detector started. Examples loaded: paper 37, plastic 53, electronics 72, nothing 108
+2026-10-22 14:37:44  AI: MobileNetV2 (pre-trained) on the zoomed crops
+2026-10-22 14:37:44  Wi-Fi: learnet.se
+2026-10-22 14:37:47  Camera: the camera can't be reached (timed out)
+2026-10-22 14:37:49  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-22 14:37:51  Wi-Fi: Identifiering sker...
+2026-10-22 14:37:51  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-22 14:37:53  Camera: pictures arriving again (after 6 s, 5 tries)
+2026-10-22 14:37:54  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:37:55  Learned the empty view (still 0.4, sharp 290)
+2026-10-22 14:37:58  Learning the empty view again (E)
+2026-10-22 14:37:59  Learned the empty view (still 0.4, sharp 264)
+2026-10-22 14:38:10  Camera: the camera stopped sending (timed out)
+2026-10-22 14:38:14  Camera: the camera can't be reached (timed out)
+2026-10-22 14:38:18  Wi-Fi: no Wi-Fi
+2026-10-22 14:38:20  Camera: the camera refuses the picture (busy) (Remote end closed connection without response)
+2026-10-22 14:38:21  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:38:22  Camera: pictures arriving again (after 11 s, 7 tries)
+2026-10-22 14:38:25  Saw electronics - following it
+2026-10-22 14:38:35  Camera: the picture stream broke off ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-10-22 14:38:36  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-22 14:38:45  Wi-Fi: learnet.se
+2026-10-22 14:38:48  Wi-Fi: no Wi-Fi
+2026-10-22 14:38:52  Wi-Fi: Identifiering sker...
+2026-10-22 14:38:57  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-22 14:39:02  Wi-Fi: AiPi_Cam_D200
+2026-10-22 14:39:27  Camera: still no pictures for 52 s - the camera refuses the picture (busy) (30 tries)
+2026-10-22 14:39:54  Camera: the camera can't be reached ([WinError 10065] En socketåtgärd försökte utföras på en oåtkomlig värd)
+2026-10-22 14:39:56  Wi-Fi: learnet.se
+2026-10-22 14:40:26  Camera: still no pictures for 110 s - the camera can't be reached (54 tries)
+2026-10-22 14:40:58  Camera: still no pictures for 142 s - the camera can't be reached (63 tries)
+2026-10-22 14:41:29  Camera: still no pictures for 174 s - the camera can't be reached (72 tries)
+2026-10-22 14:42:01  Camera: still no pictures for 205 s - the camera can't be reached (81 tries)
+2026-10-22 14:42:33  Camera: still no pictures for 237 s - the camera can't be reached (90 tries)
+2026-10-22 14:43:04  Camera: still no pictures for 268 s - the camera can't be reached (99 tries)
+2026-10-22 14:43:36  Camera: still no pictures for 300 s - the camera can't be reached (108 tries)
+2026-10-22 14:44:07  Camera: still no pictures for 332 s - the camera can't be reached (117 tries)
+2026-10-22 14:44:39  Camera: still no pictures for 363 s - the camera can't be reached (126 tries)
+2026-10-22 14:45:11  Camera: still no pictures for 395 s - the camera can't be reached (135 tries)
+2026-10-22 14:45:42  Camera: still no pictures for 426 s - the camera can't be reached (144 tries)
+2026-10-22 14:46:14  Camera: still no pictures for 458 s - the camera can't be reached (153 tries)
+2026-10-22 14:46:45  Camera: still no pictures for 489 s - the camera can't be reached (162 tries)
+2026-10-22 14:47:17  Camera: still no pictures for 521 s - the camera can't be reached (171 tries)
+2026-10-22 14:47:48  Camera: still no pictures for 553 s - the camera can't be reached (180 tries)
+2026-10-22 14:48:20  Camera: still no pictures for 584 s - the camera can't be reached (189 tries)
+2026-10-22 14:48:52  Camera: still no pictures for 616 s - the camera can't be reached (198 tries)
+2026-10-22 14:49:23  Camera: still no pictures for 647 s - the camera can't be reached (207 tries)
+2026-10-22 14:49:55  Camera: still no pictures for 679 s - the camera can't be reached (216 tries)
+2026-10-22 14:50:26  Camera: still no pictures for 711 s - the camera can't be reached (225 tries)
+2026-10-22 14:50:58  Camera: still no pictures for 742 s - the camera can't be reached (234 tries)
+2026-10-22 14:51:30  Camera: still no pictures for 774 s - the camera can't be reached (243 tries)
+2026-10-22 14:52:01  Camera: still no pictures for 805 s - the camera can't be reached (252 tries)
+2026-10-22 14:52:33  Camera: still no pictures for 837 s - the camera can't be reached (261 tries)
+2026-10-22 14:53:04  Camera: still no pictures for 868 s - the camera can't be reached (270 tries)
+2026-10-22 14:53:36  Camera: still no pictures for 900 s - the camera can't be reached (279 tries)
+2026-10-22 14:54:07  Camera: still no pictures for 932 s - the camera can't be reached (288 tries)
+2026-10-22 14:54:39  Camera: still no pictures for 963 s - the camera can't be reached (297 tries)
+2026-10-22 14:55:11  Camera: still no pictures for 995 s - the camera can't be reached (306 tries)
+2026-10-22 14:55:42  Camera: still no pictures for 1026 s - the camera can't be reached (315 tries)
+2026-10-22 14:56:14  Camera: still no pictures for 1058 s - the camera can't be reached (324 tries)
+2026-10-22 14:56:45  Camera: still no pictures for 1090 s - the camera can't be reached (333 tries)
+2026-10-22 14:57:17  Camera: still no pictures for 1121 s - the camera can't be reached (342 tries)
+2026-10-22 14:57:49  Camera: still no pictures for 1153 s - the camera can't be reached (351 tries)
+2026-10-22 14:58:20  Camera: still no pictures for 1184 s - the camera can't be reached (360 tries)
+2026-10-22 14:58:52  Camera: still no pictures for 1216 s - the camera can't be reached (369 tries)
+2026-10-22 14:59:23  Camera: still no pictures for 1248 s - the camera can't be reached (378 tries)
+2026-10-22 14:59:55  Camera: still no pictures for 1279 s - the camera can't be reached (387 tries)
+2026-10-22 15:00:27  Camera: still no pictures for 1311 s - the camera can't be reached (396 tries)
+2026-10-22 15:00:58  Camera: still no pictures for 1342 s - the camera can't be reached (405 tries)
+2026-10-23 13:31:19  Pico: connected
+2026-10-23 13:31:19  Detector started. Examples loaded: paper 37, plastic 53, electronics 72, nothing 120
+2026-10-23 13:31:19  AI: MobileNetV2 (pre-trained) on the zoomed crops
+2026-10-23 13:31:19  Dashboard: http://127.0.0.1:8642
+2026-10-23 13:31:20  Wi-Fi: learnet.se
+2026-10-23 13:31:22  Camera: the camera can't be reached (timed out)
+2026-10-23 13:31:42  Camera: the camera refuses the picture (busy) ([WinError 10053] En etablerad anslutning avbröts av programvaran i värddatorn)
+2026-10-23 13:31:44  Wi-Fi: Identifiering sker...
+2026-10-23 13:31:44  Camera: the camera can't be reached ([WinError 10051] En socketåtgärd försökte utföras till ett nätverk som inte går )
+2026-10-23 13:31:46  Camera: pictures arriving again (after 24 s, 10 tries)
+2026-10-23 13:31:47  Wi-Fi: AiPi_Cam_D200
+2026-10-23 13:31:48  Learned the empty view (still 0.7, sharp 1038)
+2026-10-23 13:32:26  Camera: the picture stream broke off (IncompleteRead(1711 bytes read))
+2026-10-23 13:32:28  Camera: pictures arriving again (after 1 s, 3 tries)
+2026-10-23 13:32:32  Camera: the picture stream broke off (IncompleteRead(824 bytes read))
+2026-10-23 13:32:35  Camera: pictures arriving again (after 3 s, 5 tries)
+2026-10-23 13:32:37  Camera: the picture stream broke off (IncompleteRead(4081 bytes read))
+2026-10-23 13:32:42  Camera: pictures arriving again (after 5 s, 8 tries)
+2026-10-23 13:33:02  Saw plastic - following it
+2026-10-23 13:33:08  Detector stopped
+2026-10-23 13:33:31  Wi-Fi: learnet.se
+2026-10-23 14:15:56  Wi-Fi: None
+2026-10-23 14:16:17  Wi-Fi: learnet.se
+2026-10-23 14:17:30  Wi-Fi: None
+2026-10-23 18:42:38  Wi-Fi: no Wi-Fi
+2026-11-02 10:19:10  Wi-Fi: None
+2026-11-02 10:20:44  Wi-Fi: learnet.se
+2026-11-12 13:24:49  Detector started - loading the AI (CLIP, a few seconds)...
+2026-11-12 13:24:50  Pico: connected
+2026-11-12 13:24:50  Camera: pictures arriving
+2026-11-12 13:24:50  AI: CLIP preset library for paper, plastic, electronics - no teaching needed
+2026-11-12 13:24:50  Dashboard: http://127.0.0.1:8642
+2026-11-12 13:24:51  Wi-Fi: AiPi_Cam_D200
+2026-11-12 13:24:55  Empty view not good, trying again: something moved (4.2) - keep the camera still and the view empty
+2026-11-12 13:24:58  Learned the empty view (still 0.3, sharp 1433)
+2026-11-12 13:24:59  Detector stopped
+2026-11-12 13:25:01  Detector started - loading the AI (CLIP, a few seconds)...
+2026-11-12 13:25:01  Pico: connected
+2026-11-12 13:25:01  Camera: pictures arriving
+2026-11-12 13:25:02  AI: CLIP preset library for paper, plastic, electronics - no teaching needed
+2026-11-12 13:25:02  Dashboard: http://127.0.0.1:8642
+2026-11-12 13:25:03  Wi-Fi: AiPi_Cam_D200
+2026-11-12 13:25:07  Empty view not good, trying again: something moved (8.9) - keep the camera still and the view empty
+2026-11-12 13:25:13  Camera: the camera stopped sending (timed out)
+2026-11-12 13:25:14  Camera: the camera refuses the picture (busy) ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-11-12 13:25:16  Camera: pictures arriving again (after 2 s, 2 tries)
+2026-11-12 13:25:16  Learned the empty view (still 0.3, sharp 1433)
+2026-11-12 13:25:25  Saw electronics - following it
+2026-11-12 13:25:33  Camera: the camera stopped sending (timed out)
+2026-11-12 13:25:33  Camera: the camera refuses the picture (busy) (Remote end closed connection without response)
+2026-11-12 13:25:35  Camera: pictures arriving again (after 2 s, 2 tries)
+2026-11-12 13:25:36  Nothing for 7 s - back to the red box
+2026-11-12 13:25:36  Saw electronics - following it
+2026-11-12 13:25:48  Camera: the picture stream broke off (IncompleteRead(3188 bytes read))
+2026-11-12 13:25:52  Camera: the camera can't be reached (timed out)
+2026-11-12 13:25:53  Camera: the camera refuses the picture (busy) ([WinError 10054] En befintlig anslutning tvingades att stänga av fjärrvärddatorn)
+2026-11-12 13:25:57  Camera: the picture stream broke off (IncompleteRead(112 bytes read))
+2026-11-12 13:26:01  Camera: pictures arriving again (after 13 s, 11 tries)
+2026-11-12 13:26:16  Camera: the picture stream broke off (IncompleteRead(1300 bytes read))
+2026-11-12 13:26:30  Camera: pictures arriving again (after 14 s, 22 tries)
+2026-11-12 13:26:31  Nothing for 7 s - back to the red box
+2026-11-12 13:26:31  Camera: the picture stream broke off (IncompleteRead(2549 bytes read))
